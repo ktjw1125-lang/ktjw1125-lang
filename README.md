@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 기술스택
+## c언어, 파이썬AI, stm32, arduino, raspberry-pi, jetson
+
+## 프로젝트
+## 미니프로젝트1 - 증명사진 촬영가이드 https://github.com/ktjw1125-lang/miniproject1_ID_Photo_Assistant
+## 미니프로젝트2 - IoT 홈 https://github.com/ktjw1125-lang/miniproject2
+## 미니프로젝트3 - 아파트 공구대여 스마트 시스템 https://github.com/gayoung228/Parts-Rental-and-Storage
