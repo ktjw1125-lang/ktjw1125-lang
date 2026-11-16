@@ -43,6 +43,6 @@ Raspberry Pi 기반 BSP Linux부터 마이크로컨트롤러 프로젝트까지 
 
 ## 📊 GitHub 활동
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktjw1125-lang&show_icons=true&theme=tokyonight&hide_title=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ktjw1125-lang&show_icons=true&theme=tokyonight&hide_title=true)
 
 프로젝트와 학습 기록을 계속 업데이트하고 있습니다. 감사합니다! 🙂
